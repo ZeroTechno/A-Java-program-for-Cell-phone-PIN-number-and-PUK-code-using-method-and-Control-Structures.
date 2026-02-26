@@ -10,7 +10,11 @@ Test Case 1:
 Please Enter your SIM card PIN Number: 0000
 =====Welcome to Sir Jay Telecom=====
 ****A Telecom that Always On-Line****
+ 
+ 
  <img width="364" height="552" alt="image" src="https://github.com/user-attachments/assets/08f88f72-76dd-4d05-aff5-38bf18d1a806" />
+
+ 
 
 Test Case 2:
 ===== Sir Jay Telecom =====
@@ -41,7 +45,10 @@ Enter your PUK code: 12345678
 
 Welcome to Sir Jay Telecom
 ****A Telecom that Always On-Line****
+ 
  <img width="364" height="552" alt="image" src="https://github.com/user-attachments/assets/33a15365-6b59-44d4-a5bc-d22816ccc961" />
+
+
 
 Test Case 3:
 ===== Sir Jay Telecom =====
@@ -70,4 +77,6 @@ Invalid PUK Code
 
 
 SIM BLOCKED
+ 
  <img width="367" height="541" alt="image" src="https://github.com/user-attachments/assets/d7a42c9a-e5a7-4cff-b52c-54d293574edf" />
+
